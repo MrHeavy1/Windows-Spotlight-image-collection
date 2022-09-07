@@ -1,5 +1,8 @@
 # What's this?
-A fork of Windows-Spotlight-image-collection that fixes some minor issues and tries to make the script easier to use.
+This is the original version of the wayyy improved fork known as Spotlight-Images.
+This one exists as a backup one in case the fork gets destroyed. If it does, I will continue the app going.
+For now I am just nothing in this project. This serves as a download to the extremely old first version of the script.
+To configure stuff you WILL have to tinker with code.
 # Features
 - (obviously) collects your Windows Spotlight images. Works on W10 and W11. Use this if you don't want that stinky icon on your desktop.
 - Easy to use
